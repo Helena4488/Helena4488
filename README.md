@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Helena4488
 - 👀 I’m interested in programming for the web.
-- 🌱 I’m currently learning JavaScript och React.
+- 🌱 I’m currently learning JavaScript och PHP.
 - 💞️ I’m looking to collaborate on learning webdevelopement.
 - 📫 How to reach me ...
 - 😄 Pronouns: Helena
